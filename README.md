@@ -16,7 +16,7 @@ High blood pressure proved to be another strong indicator. The visualization hig
 ![Hypertension Risk](images/hypertension_risk.png)
 
 ### 3. Age Distribution Analysis
-I plotted the age distribution to identify the critical "risk threshold." The chart shows that while risk exists at younger ages, there is a sharp acceleration in stroke events starting at age 55.
+I plotted the age distribution to identify the critical "risk threshold." The chart shows that while risk exists at younger ages, there is a sharp acceleration in stroke events starting at age 60.
 ![Age Risk](images/age_risk.png)
 
 ## Tools Used
