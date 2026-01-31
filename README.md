@@ -9,14 +9,19 @@ The goal was to move beyond simple correlation coefficients and use data visuali
 
 ### 1. Heart Disease vs. Stroke Risk
 I compared the stroke probability between patients with and without heart disease. The data shows a clear distinction: patients with a history of heart disease have a significantly higher occurrence of stroke.
+
 ![Heart Disease Risk](images/heart_disease_risk.png)
 
 ### 2. Hypertension Impact
 High blood pressure proved to be another strong indicator. The visualization highlights that hypertension is a consistent comorbidity in stroke cases across the dataset.
+
+
 ![Hypertension Risk](images/hypertension_risk.png)
 
 ### 3. Age Distribution Analysis
 I plotted the age distribution to identify the critical "risk threshold." The chart shows that while risk exists at younger ages, there is a sharp acceleration in stroke events starting at age 60.
+
+
 ![Age Risk](images/age_risk.png)
 
 ## Tools Used
